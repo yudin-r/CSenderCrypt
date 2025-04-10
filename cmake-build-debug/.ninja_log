@@ -1,0 +1,7 @@
+# ninja log v6
+2	117	1744314221460057804	build.ninja	a8ce358158c7a1e2
+93	249	1743266302310435554	CSenderCrypt	4193c341f4d6faf7
+3	126	1743264072599673137	CMakeFiles/CSenderCrypt.dir/main.c.o	72e994d91af06519
+3	47	1743152639921317448	CMakeFiles/CSenderCrypt.dir/smtp_config.c.o	49f57d66b08f2da4
+3	205	1743265575088939096	CMakeFiles/CSenderCrypt.dir/email_sender.c.o	9851319bc0a618d4
+3	93	1743266302220436446	CMakeFiles/CSenderCrypt.dir/rsa.c.o	145df9d51e2c2c1f

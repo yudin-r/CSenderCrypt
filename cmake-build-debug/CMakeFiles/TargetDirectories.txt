@@ -1,0 +1,3 @@
+/home/yudin-r/CLionProjects/CSenderCrypt/cmake-build-debug/CMakeFiles/CSenderCrypt.dir
+/home/yudin-r/CLionProjects/CSenderCrypt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yudin-r/CLionProjects/CSenderCrypt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
